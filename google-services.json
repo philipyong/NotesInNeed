@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996301031850",
+    "firebase_url": "https://notes-in-need.firebaseio.com",
+    "project_id": "notes-in-need",
+    "storage_bucket": "notes-in-need.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996301031850:android:b64f5bea4d0a59205a03d3",
+        "android_client_info": {
+          "package_name": "com.yongphilip.notesinneed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996301031850-leib0e5vfkvbanb8jt956sp829eo61ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI0GHThd8ZAKG-hPtxqdNVteGnHF5cHPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996301031850-leib0e5vfkvbanb8jt956sp829eo61ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

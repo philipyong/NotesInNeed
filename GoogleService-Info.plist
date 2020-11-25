@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>996301031850-opvtqb0qgcj36s1os9r9jjlh7l2u7efv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.996301031850-opvtqb0qgcj36s1os9r9jjlh7l2u7efv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAo-oDkHl64b76HPbDFbB7qD8tF2VloxS0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>996301031850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yongphilip.notesinneed</string>
+	<key>PROJECT_ID</key>
+	<string>notes-in-need</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notes-in-need.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:996301031850:ios:6dd39884f890930d5a03d3</string>
+	<key>DATABASE_URL</key>
+	<string>https://notes-in-need.firebaseio.com</string>
+</dict>
+</plist>
